@@ -53,3 +53,8 @@
  - *Being a gread dad*
  - *My motorcycle, both riding and tinkering*
  - *Electronics*
+
+## Links
+ - [GitHub Profile](https://github.com/hdoordt)
+ - [LinkedIn Profile](https://www.linkedin.com/in/hdoordt/)
+ 
