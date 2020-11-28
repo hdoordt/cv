@@ -42,6 +42,7 @@
  - *Database design*
  - *Smart contract development*
  - *App development*
+ - *Being a Scrum Master*
  - *Being a quick and eager learer*
 
 ## Languages
@@ -57,4 +58,3 @@
 ## Links
  - [GitHub Profile](https://github.com/hdoordt)
  - [LinkedIn Profile](https://www.linkedin.com/in/hdoordt/)
- 
