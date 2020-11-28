@@ -1,5 +1,3 @@
-# Henk Dieter Oordt's resume
-
 ## Professional experience
 
  - **2018 - present:** *Backend/embedded developer at Tweede Golf*
