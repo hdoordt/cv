@@ -51,7 +51,7 @@
  - *Spanish (A1)*
 
 ## Interests
- - *Being a gread dad*
+ - *Being a great dad*
  - *My motorcycle, both riding and tinkering*
  - *Electronics*
 
