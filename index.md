@@ -1,3 +1,7 @@
+## About me
+
+Hi, my name is Henk Dieter. Nice that you're having a look at my resume! 
+
 ## Professional experience
 
  - **2018 - present:** *Backend/embedded developer at Tweede Golf*
@@ -58,3 +62,4 @@
 ## Links
  - [GitHub Profile](https://github.com/hdoordt)
  - [LinkedIn Profile](https://www.linkedin.com/in/hdoordt/)
+
