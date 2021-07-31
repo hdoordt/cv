@@ -55,7 +55,7 @@ Hi, my name is Henk Dieter. Nice that you're having a look at my resume!
  - *Spanish (A1)*
 
 ## Interests
- - *Being a gread dad*
+ - *Being a great dad*
  - *My motorcycle, both riding and tinkering*
  - *Electronics*
 
