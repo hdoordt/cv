@@ -1,12 +1,12 @@
 ## About me
 
-Hi, my name is Henk Dieter. Nice that you're having a look at my resume! 
+Hi, my name is Henk. Nice that you're having a look at my resume! 
 
 ## Professional experience
 
- - **2018 - present:** *Backend/embedded developer at Tweede Golf*
+ - **2018 - present:** *Embedded/backend developer at Tweede Golf*
  
- My current employment at Tweede Golf is very diverse. I work on a multitude of projects, both web related and embedded. As an embedded developer, I gained a lot of knowledge on bare-metal driver development and embedded application development in Rust. Backend development at Tweede Golf means creating custom web applications using Typescript (Node, React) and Rust, as well as working with Kubernetes to deploy applications to our cluster. I oversee the client communication and scrum-master like tasks at some of the projects I work on.
+ My current employment at Tweede Golf is very diverse. I work on a multitude of projects, both web related and embedded. As an embedded developer, I gained a lot of knowledge on bare-metal driver development and embedded application development in Rust. Backend development at Tweede Golf means creating custom web applications using Typescript (Node, React) and Rust, as well as working with Kubernetes to deploy applications to our cluster. I oversee the client communication and scrum-master like tasks at some of the projects I work on. Apart from software development and leading projects, I hosted workshops on embedded Rust both internally and for external partner companies.
 
  - **2017 - 2018:** *Lead developer at Baksteen Blockchain*
  
@@ -25,6 +25,7 @@ Hi, my name is Henk Dieter. Nice that you're having a look at my resume!
  My internship at PEJ was about designing and implementing a prediction system for domain name traffic and value.
 
 ## Education
+ - **2021-2022:** *Pre-master's Embedded Systems at Eindhoven University of Technology*
 
  - **2013-2018:** *Hbo Bachelor's degree Computer Science (Informatica) at Hanze University Groningen*
  
@@ -45,7 +46,7 @@ Hi, my name is Henk Dieter. Nice that you're having a look at my resume!
  - *Web development using TypeScript and Rust*
  - *Database design*
  - *Smart contract development*
- - *App development*
+ - *Hosting workshops and courses*
  - *Being a Scrum Master*
  - *Being a quick and eager learer*
 
@@ -57,7 +58,7 @@ Hi, my name is Henk Dieter. Nice that you're having a look at my resume!
 ## Interests
  - *Being a great dad*
  - *My motorcycle, both riding and tinkering*
- - *Electronics*
+ - *Electronics, hardware development*
 
 ## Links
  - [GitHub Profile](https://github.com/hdoordt)
