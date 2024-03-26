@@ -2,6 +2,8 @@
 
 Hi, my name is Henk. This is a list of some things I did in the past, as well as some things I like and am good at. Which in my experience, go hand in hand, generally. 
 
+<img src="./henk.png" style="width: 20rem"></img>
+
 I love making cool software with others using Rust 🦀. I focus on embedded and scalable (web) server software. I'm an enthusiastic Rust trainer and maintainer of the [teach-rs](https://github.com/tweedegolf/teach-rs) open source university course on Rust. Sharing my experience and excitement for Rust and tech, as well as learning from others, is what fuels me
 
 ## Professional experience
