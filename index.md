@@ -60,9 +60,11 @@ I love making cool software with others using Rust 🦀. I focus on embedded and
  - *Speaking at conferences*
 
 ## Languages
- - *Dutch (First language)*
+ - *Dutch (Native speaker)*
  - *English (C2)*
  - *Spanish (A1)*
+ - *German*
+ - *French*
 
 ## Interests
  - *Being a great dad*
