@@ -12,7 +12,7 @@ I love making cool software with others using Rust 🦀. I focus on embedded and
  
  My current employment at Tweede Golf is very diverse. I work on a multitude of projects, both web related and embedded. As an embedded developer, I gained a lot of knowledge on bare-metal driver development and embedded application development in Rust. I have worked with setups based on RTIC, Embassy, or with no runtime whatsoever. Backend development at Tweede Golf means creating custom web applications using Typescript (Node, React), but nowadays mostly Rust (Axum, Rocket), as well as working with Kubernetes to deploy applications to our cluster. I oversee the client communication and scrum master-like tasks at some of the projects I work on.
 
- - **2021 - present:** *Rust training lead at Tweede golf**
+ - **2021 - present:** *Rust training lead at Tweede golf*
 
   When I'm not developing software, I'm sharing my knowledge, and that of my colleagues. As the Rust training lead at Tweede golf, not only do I organize and host the majority of our Rust trainings at external companies (in house or remotely), I also develop learning material. Be it trainings that aim to introduce Rust as a language, on embedded, or advanced Rust topics like FFI and async. My experience developing [teach-rs](https://github.com/tweedegolf/teach-rs) is of great help in this field.
 
