@@ -9,7 +9,7 @@ I love creating beautiful and robust software with others using [Rust](https://w
 ## Professional experience
  - **2024 - present:** *Senior Software Engineering Consultant at Mainmatter*
 
- As a Senior Software Engineering Constultant at Mainmatter, I specialize in Rust-work. Notable projects I've worked on are a port of [RediSearch](https://github.com/RediSearch/RediSearch/), an official querying extension for [Redis](https://redis.io/), optimizing a data pipeline for running in WASM, as well as hosting various training sessions on Rust.
+ As a Senior Software Engineering Constultant at Mainmatter, I specialize in Rust-related engineering and training work. Notable projects I've worked on are a port of [RediSearch](https://github.com/RediSearch/RediSearch/), an official querying extension for [Redis](https://redis.io/) from C to Rust, and optimizing a data pipeline for running on WASM in the end user's browser. I have furthermore hosted various training sessions on Rust.
    
  - **2018 - 2024:** *Embedded/backend Software Sngineer at Tweede golf*
  
