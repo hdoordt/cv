@@ -4,16 +4,18 @@ Hi, my name is Henk. This is a list of some things I did in the past, as well as
 
 <img src="./henk.png" style="width: 20rem">
 
-I love creating beautiful and robust software with others using [Rust](https://www.rust-lang.org/) 🦀. I focus on embedded and scalable (web) server software. I'm an enthusiastic Rust trainer and maintainer of the [teach-rs](https://github.com/tweedegolf/teach-rs) open source university course on Rust. Sharing my experience and excitement for Rust and tech, as well as learning from others, is what fuels me.
+Focusing on embedded and scalable (web) server software, I love creating beautiful and robust software with others using [Rust](https://www.rust-lang.org/) 🦀. I'm an enthusiastic Rust trainer and creator of the [teach-rs](https://github.com/tweedegolf/teach-rs) open source university course on Rust. Sharing my experience and excitement for Rust and tech, as well as learning from others, is what fuels me.
 
 ## Professional experience
  - **2024 - present:** *Senior Software Engineering Consultant at Mainmatter*
 
- As a Senior Software Engineering Constultant at Mainmatter, I specialize in Rust-work. Notable projects I've worked on are a port of [RediSearch](https://github.com/RediSearch/RediSearch/), an official querying extension for [Redis](https://redis.io/), optimizing a data pipeline for running in WASM, as well as hosting various training sessions on Rust.
-   
- - **2018 - 2024:** *Embedded/backend Software Sngineer at Tweede golf*
+ As a Senior Software Engineering Consultant at Mainmatter, I specialize in Rust-work. I've worked on gradually migrating [RediSearch](https://github.com/RediSearch/RediSearch/), an official querying extension for [Redis](https://redis.io/), from C to Rust. Apart from the porting work itself, I have developed tools, patterns, and best practices that aid in reducing complexity and improving quality.
+ Furthermore, I have worked on optimizing a data pipeline for running in WASM, as well as hosting various training sessions on Rust. 
  
- My employment at Tweede Golf has been very diverse. I worked on a multitude of projects, both web related and embedded. As an Embedded Software Engineer, I gained a lot of knowledge on bare-metal driver development and embedded application development in Rust. I have worked with setups based on RTIC, Embassy, or with no runtime whatsoever. Backend development at Tweede golf means creating custom web applications using Typescript (Node, React), but mostly Rust (Axum, Rocket, Tokio), as well as working with Kubernetes to deploy applications to our cluster. I oversaw the client communication and scrum master-like tasks at most of the projects I work on.
+ - **2018 - 2024:** *Embedded/backend Software Engineer at Tweede golf*
+ 
+ My employment at Tweede Golf has been very diverse. I worked on a multitude of projects, both web related and embedded. As an Embedded Software Engineer, I deepened my knowledge on bare-metal driver development and embedded application development in Rust. I have worked with setups based on RTIC, Embassy, or with no runtime at all, in medical and IoT.
+ Backend development at Tweede golf means creating custom web applications using TypeScript (Node, React), but mostly Rust (Axum, Rocket, Tokio), as well as working with Kubernetes to deploy applications to our cluster. I oversaw the client communication and project management tasks at most of the projects I've worked on.
 
  - **2021 - 2024:** *Rust training lead at Tweede golf*
 
@@ -21,7 +23,7 @@ I love creating beautiful and robust software with others using [Rust](https://w
 
  - **2017 - 2018:** *Lead developer at Baksteen Blockchain*
  
- At Baksteen, I designed and implemented decentralized applications (Dappss) for Ethereum, using the Solididy smart contract programming language. Most notably, I worked on Divisions, a fully decentralized proof of stake pooling platform. As project lead, I oversaw a team of five developers.
+ At Baksteen, I designed and implemented decentralized applications (Dapps) for Ethereum, using the Solidity smart contract programming language. Most notably, I worked on Divisions, a fully decentralized proof of stake pooling platform. As project lead, I oversaw a team of five developers.
 
  - **2016:** *Internship at New Nexus Mobile*
  
@@ -31,7 +33,7 @@ I love creating beautiful and robust software with others using [Rust](https://w
  
  As a developer at Rocketry, I fulfilled a role as all-round IT-specialist. My main focus was on building a fully automated domain name webshop and designing and developing a crypto currency trading bot.
 
- - **2014 - 2015:** *Intership at PEJ Private Equity ad Brokerage*
+ - **2014 - 2015:** *Intership at PEJ Private Equity and Brokerage*
  
  My internship at PEJ was about designing and implementing a prediction system for domain name traffic and value.
 
@@ -51,15 +53,18 @@ I love creating beautiful and robust software with others using [Rust](https://w
  - **2005-2010:** *HAVO at Greijdanus in Hardenberg*
 
  Profile: Nature and Health (Natuur en Gezondheid). Graduated in 2010.
+ 
+## Talks
+- *[Oxidizing Education](https://www.youtube.com/watch?v=KwZM0lSTvyk) @ RustNL 2024*
+- *[Rust Irgendwie, Irgendwo, Irgendwann](https://www.youtube.com/watch?v=aI2UXOcaRhw) @ EuroRust 2024*
 
 ## Skills
+ - *C/Rust FFI interop*
  - *Embedded software development using Rust*
  - *Hosting Rust trainings and courses*
  - *Web development using TypeScript and Rust*
  - *PCB design (KiCAD)*
  - *Database design*
- - *Being a Scrum Master*
- - *Being a quick and eager learer*
  - *Speaking at conferences*
 
 ## Languages
@@ -68,11 +73,6 @@ I love creating beautiful and robust software with others using [Rust](https://w
  - *Spanish (A1)*
  - *German*
  - *French*
-
-## Interests
- - *Being a great dad*
- - *My motorcycle, both riding and tinkering*
- - *Electronics, hardware development*
 
 ## Links
  - [GitHub Profile](https://github.com/hdoordt)
